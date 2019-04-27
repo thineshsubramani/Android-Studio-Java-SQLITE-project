@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="name">Name</string>
+    <string name="phone">Contact No</string>
+    <string name="password">Password</string>
+    <string name="registerbtn">Register</string>
+    <string name="email">Email     </string>
+    <string name="gmail">abcd@gmail.com</string>
+    <string name="rememberMe">Remember Me</string>
+    <string name="passwordHint">******</string>
+    <string name="welcome">Welcome</string>
+    <string name="phoneNo">Phone No</string>
+    <string name="fullname">Full Name</string>
+    <string name="update1">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirmDelete">Confirm Delete your Account ?</string>
+    <string name="confirmDeleteMsge">Warning by doing this, you all data will be lost !</string>
+    <string name="confirmUpdate">Confirm Update your Account ?</string>
+    <string name="confirmUpdateMsge">You are required to login again !</string>
+    <string name="yesbutton">Yes</string>
+    <string name="nobutton">No</string>
+    <string name="yesbutton1">Yes</string>
+    <string name="nobutton1">No</string>
+    <string name="confirmRegis">Are your sure ?</string>
+    <string name="confirmRegisMsge">By Sign up you are accepting terms and conditions !</string>
+    <string name="textpicturemsge">Click here to take upload picture</string>
+
+
+</resources>
